@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>nuxeo-runtime-mongodb</name>
+  <comment>Nuxeo ECM Platform and related components. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>nuxeo-common</project>
+    <project>nuxeo-runtime</project>
+    <project>nuxeo-runtime-osgi</project>
+    <project>nuxeo-runtime-test</project>
+    <project>nuxeo-runtime-management</project>
+    <project>nuxeo-runtime-server</project>
+    <project>nuxeo-runtime-deploy</project>
+    <project>nuxeo-launcher-commons</project>
+    <project>nuxeo-runtime-jtajca</project>
+    <project>nuxeo-runtime-metrics</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

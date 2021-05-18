@@ -1,0 +1,3 @@
+org\nuxeo\runtime\mongodb\MongoDBFeature.class
+org\nuxeo\runtime\mongodb\TestMongoDBConnectionHelper.class
+org\nuxeo\runtime\mongodb\IgnoreNoMongoDB.class

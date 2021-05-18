@@ -1,0 +1,9 @@
+org\nuxeo\runtime\mongodb\MongoDBOperators.class
+org\nuxeo\runtime\mongodb\MongoDBConnectionHelper$ReadPreferenceConverter.class
+org\nuxeo\runtime\mongodb\MongoDBSerializationHelper.class
+org\nuxeo\runtime\mongodb\MongoDBConnectionHelper$ReadConcernConverter.class
+org\nuxeo\runtime\mongodb\MongoDBComponent.class
+org\nuxeo\runtime\mongodb\MongoDBConnectionService.class
+org\nuxeo\runtime\mongodb\MongoDBConnectionHelper$WriteConcernConverter.class
+org\nuxeo\runtime\mongodb\MongoDBConnectionHelper.class
+org\nuxeo\runtime\mongodb\MongoDBConnectionConfig.class
